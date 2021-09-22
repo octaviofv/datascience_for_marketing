@@ -1,6 +1,4 @@
-# datascience_for_marketing
-conjunto de proyectos enfocados a la analítica avanzada enfocada en marketing
-
+Conjunto de proyectos enfocados a la analítica avanzada enfocada en marketing
 
 # Data science foco marketing
   - Lead scoring accuracy
