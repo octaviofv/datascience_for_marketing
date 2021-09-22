@@ -12,7 +12,7 @@ Conjunto de proyectos enfocados a la analítica avanzada enfocada en marketing
     - Based potential life time value
   - Recsys
   - Chatbots
-  - Market basket analysis
+  - <a href="https://github.com/octaviofv/market_basket_analysis"> Market basket analysis </a>✔️
   - Optimization of marketing campaigns
   - Optimal campaign channels and content
   - Maintaining customer loyalty
